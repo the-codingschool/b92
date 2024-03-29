@@ -1,0 +1,7 @@
+voila
+ipywidgets
+cirq
+cirq_web
+pandas
+matplotlib
+numpy
